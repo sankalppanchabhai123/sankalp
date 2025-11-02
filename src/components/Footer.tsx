@@ -12,7 +12,7 @@ const Footer = () => {
         <p className="text-muted-foreground flex items-center justify-center gap-2 mb-2 text-lg">
           Designed with <Heart className="w-5 h-5 text-destructive fill-destructive animate-pulse" /> by{" "}
           <a 
-            href="https://linkedin.com" 
+            href="https://www.linkedin.com/in/sankalp-panchabhai-26b359292/" 
             target="_blank" 
             rel="noopener noreferrer"
             className="font-bold text-primary hover:text-secondary transition-colors duration-300 story-link"
