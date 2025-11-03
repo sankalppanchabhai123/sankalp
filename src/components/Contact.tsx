@@ -112,7 +112,7 @@ const Contact = () => {
         </div>
 
         {/* Quick Stats */}
-        <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-12">
+        {/* <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mt-12">
           <Card className="card-glass p-6 text-center border-border/40 hover:border-primary/40 transition-all duration-300 hover:scale-105">
             <div className="text-3xl font-bold text-primary mb-1">2+</div>
             <div className="text-sm text-muted-foreground">Years Experience</div>
@@ -129,7 +129,7 @@ const Contact = () => {
             <div className="text-3xl font-bold text-primary mb-1">24/7</div>
             <div className="text-sm text-muted-foreground">Available</div>
           </Card>
-        </div>
+        </div> */}
       </div>
     </section>
   );
